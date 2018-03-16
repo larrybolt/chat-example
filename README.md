@@ -1,5 +1,6 @@
 # socketio and parceljs bundler combined
-An example how you could combine parceljs with an existing expressjs app, with socketio
+An example how you could combine parceljs with an existing expressjs app, with socketio, based on:
+https://github.com/parcel-bundler/parcel/issues/55#issuecomment-361000237
 
 # chat-example
 
